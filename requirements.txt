@@ -1,0 +1,6 @@
+jupyterlab
+pyautogui
+pyperclip
+
+# https://github.com/UB-Mannheim/tesseract/wiki
+# pytesseract
